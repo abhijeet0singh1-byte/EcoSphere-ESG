@@ -1,0 +1,51 @@
+employee_id,name,email,department_id,gender,role,status,xp_total,points_balance
+1,Chris Curtis,nicholsonclinton@example.net,7,Prefer not to say,ESG Admin,Active,371,1128
+2,Jordan Johnson,pbarnes@example.org,7,Male,Department Head,Active,507,457
+3,Amy Cunningham,crystalaguilar@example.org,1,Prefer not to say,Department Head,Active,905,95
+4,Jennifer Cherry,hawkinsdean@example.com,3,Non-binary,Department Head,Active,2214,241
+5,Bruce Parker,dakotaduncan@example.org,5,Female,Department Head,Active,2339,1308
+6,Joshua Brown,montgomerytyler@example.net,4,Non-binary,Department Head,Active,2916,128
+7,Ernest Richards,pward@example.org,1,Female,Auditor,Active,2177,875
+8,Dana Andrews,ugolden@example.com,6,Prefer not to say,Auditor,Active,1856,740
+9,William Wilson,vmartin@example.org,5,Female,Auditor,Active,2863,499
+10,Jennifer Hayden,duranashley@example.com,2,Non-binary,Auditor,Active,1406,1493
+11,Gregory Crawford,fjones@example.com,8,Non-binary,Employee,Active,299,241
+12,Matthew Brown,deborah74@example.net,7,Female,Employee,Active,622,1001
+13,Michael Johnson,nkelly@example.org,7,Male,Employee,Inactive,317,1142
+14,Daniel Mitchell DDS,fmyers@example.org,6,Non-binary,Employee,Active,2434,1017
+15,James Ramirez,lorishields@example.com,8,Male,Employee,Active,1105,970
+16,Victoria Vega,jrosario@example.org,2,Male,Employee,Active,1268,1325
+17,David Hall,lguerra@example.com,8,Non-binary,Employee,Active,2738,710
+18,Charles Nichols,stephanie89@example.net,1,Prefer not to say,Employee,Active,2502,239
+19,Amy Lam,zsanders@example.org,8,Male,Employee,Active,1177,264
+20,Mr. Connor Rollins,vmartin@example.net,4,Prefer not to say,Employee,Active,2033,165
+21,Aaron Hernandez,rushchristina@example.org,3,Prefer not to say,Employee,Active,1138,280
+22,Lisa Hernandez,stephanie95@example.com,7,Non-binary,Employee,Active,1469,1398
+23,Samuel Kaiser,tcastillo@example.org,7,Female,Employee,Active,721,309
+24,Paul Yang,kpoole@example.net,4,Female,Employee,Active,2413,373
+25,Trevor Rice,hannahsloan@example.net,5,Non-binary,Employee,Active,1716,1094
+26,Marvin Davis,april25@example.org,6,Non-binary,Employee,Inactive,2828,1055
+27,Peggy Rivera,christiekramer@example.org,1,Prefer not to say,Employee,Active,2787,1145
+28,Sabrina Singh,jamesvasquez@example.net,7,Prefer not to say,Employee,Active,424,986
+29,Alexis Ramirez,james95@example.com,7,Male,Employee,Active,855,902
+30,Miranda Bailey,christopher13@example.com,3,Male,Employee,Active,215,209
+31,Dan Hanson,mendozadenise@example.net,1,Female,Employee,Active,1489,1256
+32,Matthew Browning,timothywhite@example.net,1,Male,Employee,Active,2515,770
+33,Robert Bonilla,vford@example.org,3,Non-binary,Employee,Inactive,2466,745
+34,Carolyn Martinez,brittanymarshall@example.net,8,Male,Employee,Active,1999,954
+35,Ronald Baird,eric82@example.org,8,Prefer not to say,Employee,Active,590,209
+36,Wesley Santos,ryanwiggins@example.org,6,Non-binary,Employee,Active,2834,330
+37,Daniel Mason,jordan62@example.org,1,Female,Employee,Inactive,2163,740
+38,Heather Ellis,gwilcox@example.org,3,Male,Employee,Active,1220,1316
+39,Kelly Smith,mfrank@example.org,2,Non-binary,Employee,Active,684,728
+40,Brittany Thomas,hawkinsmark@example.net,4,Non-binary,Employee,Active,2511,399
+41,Karen Frank,wrightjoshua@example.org,4,Prefer not to say,Employee,Active,928,409
+42,Kristina Wolf,ramoscheyenne@example.net,8,Non-binary,Employee,Active,114,572
+43,Christina Ramirez,promero@example.net,8,Non-binary,Employee,Active,2478,705
+44,Sherri Reilly,marytaylor@example.org,8,Non-binary,Employee,Inactive,1493,164
+45,Eugene Lambert,qjones@example.com,4,Male,Employee,Active,805,691
+46,Stephanie Moore,douglas27@example.org,4,Prefer not to say,Employee,Active,2499,3
+47,Anna Dyer,veronicawall@example.org,8,Non-binary,Employee,Active,347,1352
+48,Wendy Powell,ugonzalez@example.org,2,Prefer not to say,Employee,Active,816,979
+49,Alicia Spencer,ywarner@example.com,3,Prefer not to say,Employee,Active,1361,177
+50,Elizabeth Yu,gallowaykristina@example.org,7,Prefer not to say,Employee,Active,347,1484

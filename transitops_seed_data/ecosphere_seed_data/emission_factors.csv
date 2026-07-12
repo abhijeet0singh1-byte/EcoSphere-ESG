@@ -1,0 +1,11 @@
+factor_id,activity_type,unit,co2e_factor_kg_per_unit,source
+1,Diesel Fuel Combustion,liter,2.68,EPA GHG Emission Factors Hub
+2,Petrol/Gasoline Combustion,liter,2.31,EPA GHG Emission Factors Hub
+3,Purchased Electricity (Grid Avg),kWh,0.42,EPA eGRID
+4,Natural Gas Combustion,therm,5.31,EPA GHG Emission Factors Hub
+5,Air Travel - Short Haul,passenger_km,0.15,DEFRA Conversion Factors
+6,Air Travel - Long Haul,passenger_km,0.11,DEFRA Conversion Factors
+7,Road Freight - Truck,tonne_km,0.1,EPA Scope 3 Guidance
+8,Paper Consumption,kg,0.94,EPA WARM Model
+9,Waste to Landfill,kg,0.58,EPA WARM Model
+10,LPG Combustion,liter,1.51,EPA GHG Emission Factors Hub

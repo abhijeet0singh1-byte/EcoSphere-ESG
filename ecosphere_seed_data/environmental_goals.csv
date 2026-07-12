@@ -1,0 +1,13 @@
+goal_id,department_id,metric,target_value,current_value,unit,deadline,status
+1,8,Reduce Paper Usage,3457.7,2006.6,kg_co2e,2026-09-08,In Progress
+2,1,Reduce Carbon Emissions,564.1,607.4,kg_co2e,2026-11-10,Achieved
+3,3,Reduce Paper Usage,2452.1,2445.7,kg_co2e,2027-06-10,In Progress
+4,1,Reduce Paper Usage,1633.3,872.8,kg_co2e,2026-10-10,In Progress
+5,6,Reduce Paper Usage,1667.1,1059.0,kg_co2e,2027-04-21,In Progress
+6,1,Reduce Water Consumption,4595.1,2679.1,kg_co2e,2027-05-12,In Progress
+7,7,Reduce Paper Usage,4222.1,4232.8,kg_co2e,2027-05-22,Achieved
+8,3,Reduce Water Consumption,2855.8,899.5,kg_co2e,2027-03-25,In Progress
+9,3,Reduce Paper Usage,3238.5,2982.1,kg_co2e,2027-06-23,In Progress
+10,3,Reduce Carbon Emissions,1137.0,904.2,kg_co2e,2026-12-24,In Progress
+11,1,Reduce Water Consumption,1966.9,1405.7,kg_co2e,2027-02-06,In Progress
+12,2,Reduce Paper Usage,4474.5,1545.8,kg_co2e,2027-01-30,In Progress

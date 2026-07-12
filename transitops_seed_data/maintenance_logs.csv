@@ -1,0 +1,14 @@
+maintenance_id,vehicle_id,maintenance_type,description,status,cost,created_at,closed_at
+1,2,AC Service,Particularly face than series chance knowledge travel born when state.,Closed,1045.45,2026-05-06 07:01:19.741073,2026-05-07 07:01:19.741073
+2,5,General Checkup,Kitchen no recognize plan technology movie.,Open,1037.17,2026-07-04 22:36:45.267244,
+3,38,Engine Repair,Represent citizen leave surface officer business tend.,Open,512.2,2026-04-30 21:41:09.775469,
+4,39,General Checkup,Issue money seek region weight probably.,Closed,1993.27,2026-06-17 22:04:46.104330,2026-06-24 22:04:46.104330
+5,8,AC Service,Sense walk sort listen art cold any understand space trade since.,Open,823.57,2026-05-03 23:25:20.730116,
+6,9,Engine Repair,My itself gas enter report pull nature card yeah road.,Open,1400.19,2026-05-23 14:07:17.888642,
+7,11,Tire Replacement,Language region respond sound somebody may animal collection everything front.,Closed,79.77,2026-06-18 16:11:06.077431,2026-06-22 16:11:06.077431
+8,17,Engine Repair,Total front smile heavy read operation until find beautiful.,Open,1938.54,2026-06-05 20:36:36.627429,
+9,20,General Checkup,Television long religious college structure number course person station knowledge.,Closed,1789.02,2026-07-09 13:14:21.574342,2026-07-13 13:14:21.574342
+10,25,General Checkup,Yet which finally magazine heavy.,Closed,1866.46,2026-05-10 16:47:30.475730,2026-05-15 16:47:30.475730
+11,29,AC Service,Respond serve break consumer much central figure admit life sister.,Closed,1008.73,2026-04-25 04:26:00.228486,2026-05-02 04:26:00.228486
+12,30,Tire Replacement,Write send whatever use money.,Closed,166.36,2026-06-07 16:44:23.573825,2026-06-11 16:44:23.573825
+13,31,Tire Replacement,Design attorney hear school plan improve call common over.,Closed,779.48,2026-05-02 06:11:11.716305,2026-05-07 06:11:11.716305

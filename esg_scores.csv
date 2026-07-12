@@ -1,0 +1,9 @@
+department_id,name,computed_environmental_score,computed_social_score,computed_governance_score,computed_total_score,original_placeholder_score
+1,Engineering,87.5,90.0,66.4,81.9,71.8
+2,Human Resources,100.0,41.3,63.2,71.4,73.4
+3,Finance,76.8,18.9,92.9,64.3,79.0
+4,Operations,1.5,84.3,76.1,48.7,84.0
+5,Facilities,86.6,0.0,62.6,53.4,81.0
+6,Sales,74.9,39.3,86.9,67.8,84.6
+7,Marketing,24.1,87.5,68.4,56.4,68.6
+8,Procurement,0.0,100.0,54.1,46.2,59.1

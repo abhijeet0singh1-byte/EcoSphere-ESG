@@ -1,0 +1,9 @@
+department_id,name,predicted_next_month_co2e,trend
+1,Engineering,0.0,Decreasing
+2,Human Resources,139.07,Decreasing
+3,Finance,0.0,Decreasing
+4,Operations,246.6,Decreasing
+5,Facilities,1082.51,Increasing
+6,Sales,0.0,Decreasing
+7,Marketing,0.0,Decreasing
+8,Procurement,1667.0,Increasing

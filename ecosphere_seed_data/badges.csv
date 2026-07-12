@@ -1,0 +1,6 @@
+badge_id,name,description,unlock_rule,icon
+1,Green Starter,Complete your first challenge,completed_challenges >= 1,seedling
+2,Eco Warrior,Earn 1000 XP,xp_total >= 1000,shield-leaf
+3,CSR Champion,Complete 5 CSR activities,completed_csr_activities >= 5,heart-hands
+4,Carbon Cutter,Earn 2500 XP,xp_total >= 2500,co2-cut
+5,Sustainability Legend,Complete 20 challenges,completed_challenges >= 20,trophy-green

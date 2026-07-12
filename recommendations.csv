@@ -1,0 +1,9 @@
+department_id,name,weakest_area,recommendation
+1,Engineering,Governance,Governance score is the weakest area — review open compliance issues and ensure policy acknowledgements are up to date.
+2,Human Resources,Social,Employee participation in CSR activities and challenges is low — consider running a targeted challenge or CSR event to boost engagement and XP.
+3,Finance,Social,Employee participation in CSR activities and challenges is low — consider running a targeted challenge or CSR event to boost engagement and XP.
+4,Operations,Environmental,Carbon output is high relative to other departments — consider switching a portion of fuel/electricity use to lower-emission sources or reviewing high-emission activities flagged in Carbon Transactions.
+5,Facilities,Social,Employee participation in CSR activities and challenges is low — consider running a targeted challenge or CSR event to boost engagement and XP.
+6,Sales,Social,Employee participation in CSR activities and challenges is low — consider running a targeted challenge or CSR event to boost engagement and XP.
+7,Marketing,Environmental,Carbon output is high relative to other departments — consider switching a portion of fuel/electricity use to lower-emission sources or reviewing high-emission activities flagged in Carbon Transactions.
+8,Procurement,Environmental,Carbon output is high relative to other departments — consider switching a portion of fuel/electricity use to lower-emission sources or reviewing high-emission activities flagged in Carbon Transactions.

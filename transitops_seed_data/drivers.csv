@@ -1,0 +1,36 @@
+driver_id,name,license_number,license_category,license_expiry_date,contact_number,safety_score,status
+1,Steven Larson,DL-5143224,Heavy Trailer,2027-05-12,594-238-3277,60.3,Suspended
+2,Matthew Richardson,DL-3240460,Commercial,2028-04-08,798-803-9778,88.8,Suspended
+3,Holly Reed,DL-7789373,Commercial,2028-01-26,4732991572,95.5,On Trip
+4,Gary Lewis,DL-0723209,HMV,2028-09-20,(323)381-2816,67.6,Available
+5,Kimberly Miller,DL-3399133,Commercial,2026-05-03,(998)406-4556x09706,78.6,Suspended
+6,Peggy Scott,DL-7482455,Heavy Trailer,2025-09-04,+1-674-664-0149x17522,97.7,Suspended
+7,Michael Knox,DL-0568173,HMV,2027-02-01,+1-453-207-4956,87.1,Off Duty
+8,Andres Lewis,DL-5037358,Commercial,2027-03-24,(234)592-5725x5241,94.8,On Trip
+9,Justin Nicholson,DL-2609443,LMV,2028-05-26,+1-831-603-6378x326,58.1,On Trip
+10,Amber Marquez,DL-1271701,Heavy Trailer,2028-08-08,+1-651-728-9474x6681,88.5,On Trip
+11,Ricky Rich,DL-7545285,HMV,2025-07-19,+1-253-221-4205x0253,62.6,Suspended
+12,Kenneth Spencer,DL-2592931,Heavy Trailer,2028-09-26,(246)545-3664,61.1,On Trip
+13,Roberto Carrillo,DL-3197722,LMV,2026-09-21,001-297-206-7187x2819,76.9,On Trip
+14,Mindy Smith,DL-1719659,LMV,2029-06-23,(777)642-9434x1226,89.5,On Trip
+15,Patrick Richardson,DL-8013375,Heavy Trailer,2028-08-07,948.838.7439x5599,90.1,On Trip
+16,Tanya Baker,DL-2882124,HMV,2028-07-14,001-376-598-4384x19149,99.7,On Trip
+17,Adam Hammond,DL-8366649,Heavy Trailer,2029-07-01,001-626-530-4663x467,51.6,On Trip
+18,James Peterson,DL-6804232,Commercial,2025-10-06,353-229-2598,78.8,Suspended
+19,Karen Villarreal,DL-9226647,HMV,2029-05-08,8227296726,74.3,Suspended
+20,Maria Calderon,DL-1150165,Heavy Trailer,2025-12-30,+1-667-441-6089,83.6,Suspended
+21,Mr. Brian Ross DDS,DL-7490630,HMV,2026-12-15,001-594-737-4498x63665,75.0,Available
+22,Nicole Campbell,DL-7014117,Heavy Trailer,2026-12-22,+1-375-565-6384x1228,78.1,On Trip
+23,Joshua Potts,DL-6718219,LMV,2027-01-05,(873)563-3430x2305,93.3,On Trip
+24,Diana Davis,DL-9403766,Commercial,2027-10-18,(805)774-0082x078,82.8,On Trip
+25,Peter Miller,DL-4045420,Heavy Trailer,2029-04-22,(592)290-4826,89.6,On Trip
+26,Michael Casey,DL-8567741,HMV,2029-06-09,253.985.3027x6920,79.8,Suspended
+27,Andrea White,DL-0293733,LMV,2029-06-11,(875)702-2546x445,87.3,On Trip
+28,Catherine Abbott,DL-5804384,HMV,2026-05-09,+1-289-963-9552x8090,57.3,Suspended
+29,Jody Warren,DL-8663288,Commercial,2026-02-25,+1-605-871-8865,55.2,Suspended
+30,Albert Wright,DL-7215575,HMV,2029-04-09,326.857.3829x397,75.7,On Trip
+31,Chris Griffin,DL-9487651,Heavy Trailer,2026-03-18,764.699.3805,60.9,Suspended
+32,Lindsay Smith,DL-0647121,Commercial,2028-03-26,5333619629,96.1,On Trip
+33,Rachel Shelton,DL-6902769,LMV,2027-04-19,320.609.5234,59.7,On Trip
+34,James Love,DL-4887640,LMV,2026-03-26,(230)624-7714x85681,63.1,Suspended
+35,Jeff Davis,DL-5025860,LMV,2026-06-05,001-424-451-7612x5032,56.2,Suspended

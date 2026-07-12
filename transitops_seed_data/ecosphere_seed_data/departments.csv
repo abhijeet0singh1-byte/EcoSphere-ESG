@@ -1,0 +1,9 @@
+department_id,name,code,head_employee_id,parent_department_id,employee_count,status
+1,Engineering,ENG,3,,28,Active
+2,Human Resources,HUM,3,,17,Active
+3,Finance,FIN,3,,33,Active
+4,Operations,OPE,2,3.0,11,Active
+5,Facilities,FAC,3,1.0,14,Active
+6,Sales,SAL,6,2.0,11,Active
+7,Marketing,MAR,5,3.0,21,Active
+8,Procurement,PRO,3,1.0,13,Active

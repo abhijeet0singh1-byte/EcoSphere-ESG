@@ -1,0 +1,9 @@
+department_id,name,total_co2e_kg,approved_csr_count,total_csr_points,completed_challenges,total_xp_earned,environmental_score,social_score,governance_score,total_score
+1,Engineering,2726.17,5,405,6,1800,81.8,63.9,66.4,71.8
+2,Human Resources,1906.69,3,196,4,900,68.8,89.6,63.2,73.4
+3,Finance,3424.8,2,186,3,400,88.4,52.4,92.9,79.0
+4,Operations,8344.44,5,425,9,1650,98.3,72.7,76.1,84.0
+5,Facilities,2785.7200000000003,1,106,1,50,84.4,94.8,62.6,81.0
+6,Sales,3546.7299999999996,7,500,2,550,76.8,92.8,86.9,84.6
+7,Marketing,6869.89,8,798,9,1350,68.6,68.8,68.4,68.6
+8,Procurement,8442.57,6,583,8,1850,57.3,66.5,54.1,59.1

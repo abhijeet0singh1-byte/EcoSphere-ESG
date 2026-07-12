@@ -1,0 +1,41 @@
+vehicle_id,registration_number,name_model,type,max_load_capacity_kg,odometer_km,acquisition_cost,status,region
+1,SR-3799-QP,Toyota Hilux,Pickup,962,1242,36017.76,On Trip,Central
+2,NY-7764-HT,Ashok Leyland Bus,Bus,1623,47863,46171.55,Available,East
+3,TZ-0253-TJ,Toyota Corolla,Sedan,278,112885,29367.91,Available,North
+4,HT-1821-NY,Ashok Leyland Bus,Bus,1984,91361,35981.98,On Trip,West
+5,NR-7126-VX,Tata Ultra,Truck,3329,127160,11273.56,In Shop,East
+6,BU-9341-GQ,Ford Transit,Van,664,18706,57611.98,Available,South
+7,MS-2833-RT,Tata Ultra,Truck,7967,138290,59952.38,On Trip,West
+8,ZB-6267-DN,Ford Transit,Van,617,152842,59447.56,In Shop,West
+9,RG-4269-MN,Toyota Corolla,Sedan,350,100734,47062.03,In Shop,North
+10,EG-0550-LC,Honda Civic,Sedan,364,67922,46939.32,Retired,South
+11,PA-6977-IJ,Volvo FH16,Truck,2776,37416,12097.71,Available,North
+12,XA-1437-XK,Toyota Corolla,Sedan,337,163344,17466.59,Available,South
+13,DT-2968-MA,Isuzu D-Max,Pickup,1363,132851,57810.53,On Trip,North
+14,KZ-6833-LD,Mercedes Sprinter,Van,796,61662,22415.64,On Trip,Central
+15,BV-0911-WQ,Honda Civic,Sedan,262,132390,53775.19,On Trip,West
+16,HM-3207-IN,Mercedes Citaro,Bus,1520,135988,25678.96,On Trip,Central
+17,RJ-7752-WS,Ashok Leyland Bus,Bus,1631,93620,11722.95,In Shop,West
+18,LG-4011-GR,Ford Transit,Van,477,132894,43419.29,On Trip,North
+19,DK-3545-CL,Ford Ranger,Pickup,1198,7040,10782.74,On Trip,West
+20,CG-7462-OW,Ford Transit,Van,652,120035,53464.18,On Trip,West
+21,SM-8463-UH,Ford Ranger,Pickup,1446,10312,35343.31,On Trip,West
+22,NG-6153-CU,Hyundai Elantra,Sedan,255,175619,49669.13,On Trip,Central
+23,BT-5982-XF,Hyundai Elantra,Sedan,327,2173,17226.66,On Trip,South
+24,RR-7270-DN,Hyundai Elantra,Sedan,237,79825,43338.12,Available,West
+25,TY-9891-ND,Toyota Hilux,Pickup,1243,168685,41155.48,On Trip,South
+26,NQ-5052-MB,Toyota Corolla,Sedan,282,179062,36901.8,On Trip,South
+27,GA-6228-NO,Mercedes Citaro,Bus,1160,105798,32902.22,On Trip,Central
+28,VX-8847-XF,Toyota Corolla,Sedan,370,56910,9959.45,Available,East
+29,WI-3692-QX,Mercedes Sprinter,Van,476,118369,21692.96,On Trip,North
+30,LW-9206-BQ,Ashok Leyland Bus,Bus,1465,97504,17473.57,Available,Central
+31,HX-3138-GS,Isuzu D-Max,Pickup,992,64547,20831.83,Available,Central
+32,NP-1236-DX,Isuzu D-Max,Pickup,874,173012,18732.73,Available,North
+33,LB-7334-YO,Isuzu D-Max,Pickup,1435,89103,16704.27,Available,South
+34,ID-7740-NC,Toyota Corolla,Sedan,363,175659,11854.97,On Trip,Central
+35,VI-5974-UO,Toyota HiAce,Van,1094,153927,36218.34,On Trip,West
+36,CA-2626-XQ,Isuzu NPR,Truck,2852,51233,49485.48,On Trip,Central
+37,MF-9497-OU,Toyota Hilux,Pickup,1018,159536,38355.37,Available,South
+38,XI-8700-FV,Ford Transit,Van,1126,5435,59662.94,In Shop,North
+39,OC-7569-MT,Volvo FH16,Truck,7307,102774,19978.52,Retired,West
+40,PQ-1415-UY,Honda Civic,Sedan,244,170070,50664.71,On Trip,South
