@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 EcoSphere Analytics API - how to use it
 
 1. Install: pip install fastapi uvicorn pandas
@@ -20,7 +19,3 @@ Example: GET /api/department/3/full-report
   "carbon_trend": {...},
   "recommendation": {...}
 }
-=======
-# EcoSphere-ESG
-Enterprise ESG Management Platform
->>>>>>> 36147aebd828ad1289b622d979e1b62a2e938ed4
